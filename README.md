@@ -1,4 +1,4 @@
 # Bfit_dep
 Bfit deployment version for app competition
 
-development github in SungBaek/Bfit
+development github in https://github.com/SungBaek/BFit
